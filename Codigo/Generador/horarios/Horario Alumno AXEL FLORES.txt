@@ -1,0 +1,84 @@
+		Benemérita Universidad Autónoma de Puebla
+
+	Horario de Clases
+-Nombre del Alumno: AXEL FLORES
+
+Materias 
+
+	ENSAMBLADOR
+		-NRC: 22934		-Clave: CCOS 005
+		-Sección: 101		-Profesor: SANTIAGO DIAZ MARIA DEL CARMEN
+	Días
+	  lunes
+		-Hora de Inicio: 10:00
+		-Duración: 1 hr
+		-Salón: 1
+	  martes
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	  jueves
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	--------------------------------------------------------------
+
+	CALCULO INTEGRAL
+		-NRC: 22913		-Clave: CCOS 008
+		-Sección: 103		-Profesor: MARTINEZ CAMARILLO CARLOS ADRIAN
+	Días
+	  lunes
+		-Hora de Inicio: 10:00
+		-Duración: 1 hr
+		-Salón: 1
+	  miercoles
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	  viernes
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	--------------------------------------------------------------
+
+	PROGRAMACION II
+		-NRC: 22922		-Clave: CCOS 010
+		-Sección: 101		-Profesor: CASTILLO ZACATELCO
+	Días
+	  lunes
+		-Hora de Inicio: 7:00
+		-Duración: 1 hr
+		-Salón: 1CC01-001
+	  miercoles
+		-Hora de Inicio: 7:00
+		-Duración: 2 hr
+		-Salón: 1CC03-109
+	  viernes
+		-Hora de Inicio: 7:00
+		-Duración: 2 hr
+		-Salón: 1CC01-001
+	--------------------------------------------------------------
+
+	CALCULO INTEGRAL
+		-NRC: 22916		-Clave: CCOS 008
+		-Sección: 106		-Profesor: SANCHEZ GALVEZ ALBA MARIBEL
+	Días
+	  lunes
+		-Hora de Inicio: 14:00
+		-Duración: 1 hr
+		-Salón: 1EMA5-205
+	  martes
+		-Hora de Inicio: 13:00
+		-Duración: 2 hr
+		-Salón: 1EMA5-205
+	  jueves
+		-Hora de Inicio: 13:00
+		-Duración: 2 hr
+		-Salón: 1EMA5-205
+	--------------------------------------------------------------
+
+
+
+
+
+			|||Generador de Horarios|||

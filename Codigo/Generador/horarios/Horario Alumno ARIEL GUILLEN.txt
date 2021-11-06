@@ -1,0 +1,66 @@
+		Benemérita Universidad Autónoma de Puebla
+
+	Horario de Clases
+-Nombre del Alumno: ARIEL GUILLEN
+
+Materias 
+
+	PROGRAMACION I
+		-NRC: 22848		-Clave: CCOS 004
+		-Sección: 102		-Profesor: CERVANTES MARQUEZ ANA PATRICIA
+	Días
+	  lunes
+		-Hora de Inicio: 9:00
+		-Duración: 1 hr
+		-Salón: 1CC01-005
+	  miercoles
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1CC02-207
+	  viernes
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1CC01-005
+	--------------------------------------------------------------
+
+	ALGEBRA SUPERIOR
+		-NRC: 22378		-Clave: CCOS 003
+		-Sección: 101		-Profesor: ESPINDOLA POZOS ARMANDO
+	Días
+	  lunes
+		-Hora de Inicio: 8:00
+		-Duración: 1 hr
+		-Salón: 1CC04-101
+	  martes
+		-Hora de Inicio: 7:00
+		-Duración: 2 hr
+		-Salón: 1CC04-101
+	  jueves
+		-Hora de Inicio: 7:00
+		-Duración: 2 hr
+		-Salón: 1CC04-101
+	--------------------------------------------------------------
+
+	ENSAMBLADOR
+		-NRC: 22934		-Clave: CCOS 005
+		-Sección: 101		-Profesor: SANTIAGO DIAZ MARIA DEL CARMEN
+	Días
+	  lunes
+		-Hora de Inicio: 10:00
+		-Duración: 1 hr
+		-Salón: 1
+	  martes
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	  jueves
+		-Hora de Inicio: 9:00
+		-Duración: 2 hr
+		-Salón: 1
+	--------------------------------------------------------------
+
+
+
+
+
+			|||Generador de Horarios|||
